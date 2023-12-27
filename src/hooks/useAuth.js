@@ -11,7 +11,7 @@
 
 import { useSelector } from "react-redux";
 import { selectCurrentToken } from "../features/auth/authSlice";
-import jwtDecode from "jwt-decode";
+import jwt_decode from "jwt-decode";
 
 const useAuth = () => {
   const token = useSelector(selectCurrentToken);
@@ -20,7 +20,7 @@ const useAuth = () => {
   let status = "Employee";
 
   if (token) {
-    const decoded = jwtDecode(token);
+    const decoded = jwt_decode(token);
     const { username, roles } = decoded.UserInfo;
     isManager = roles.includes("Manager");
     isAdmin = roles.includes("Admin");
