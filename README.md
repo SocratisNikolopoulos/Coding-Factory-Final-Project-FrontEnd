@@ -53,5 +53,12 @@ To set up the project locally:
 ## Contributing
 Contributions to the project are welcome! Feel free to report issues, suggest improvements, or submit pull requests following our guidelines outlined in CONTRIBUTING.md.
 
-## License
-This project is licensed under the [License Name] - include your licensing information.
+## Screenshots from the App
+![1](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-FrontEnd/assets/135650308/b23a59dc-31aa-4d71-abd2-04a943652324)
+![2](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-FrontEnd/assets/135650308/ad3c5513-bede-4057-813a-60d09d70c67e)
+![3](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-FrontEnd/assets/135650308/a7d9e09f-601a-4198-8a54-4509cb1b4235)
+![4](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-FrontEnd/assets/135650308/84fcffbf-b83e-4bcb-9758-4680bbb5f410)
+![5](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-FrontEnd/assets/135650308/d51dc61c-fdfe-4578-9ea1-a060b4c1c8ad)
+![6](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-FrontEnd/assets/135650308/9b51f8ac-5235-40b3-b792-eae0997c7e0e)
+![7](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-FrontEnd/assets/135650308/2efdc315-6731-464c-bcb3-01939d5b17ea)
+
